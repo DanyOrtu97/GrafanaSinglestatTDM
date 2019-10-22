@@ -16,8 +16,7 @@ Copyright 2018 © Grafana Labs
 Modified version of SingleStat Panel
 ###################
 
-SingleStatTDM is a modified version Grafana’s native singlestat panel. It is a part of TDM project, (link: http://www.tdm-project.it/) , initiative born thanks to the collaboration between CRS4 and the University of Cagliari.
-In this case, the goal was to show your current consumption with your average consumption, your maximum and minimum and also show your average consumption put in relation to the consumption of a given area.
+SingleStatTDM is a modified version Grafana’s native singlestat panel. The goal was to show your current consumption with your average consumption, your maximum and minimum and also show your average consumption put in relation to the consumption of a given area.
 
 Limits of native panel
 The original singlestat did not allow to obtain all dynamic value, the only dynamic value was the average (inserted through query), while the maximum, the minimum and the threshold values were inserted through the interface (statically).
